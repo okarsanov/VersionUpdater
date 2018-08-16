@@ -2,3 +2,6 @@ VersionUpdater/.vs/
 VersionUpdater/bin/
 VersionUpdater/obj/
 VersionUpdater/packages/
+TextReplacer/obj/
+VersionUpdater/TextReplacer/obj/
+VersionUpdater/TextReplacer/bin/
